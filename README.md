@@ -1,2 +1,2 @@
 # bun-express-mongodb
-Bun.js Express &amp; MongoDB: CRUD Rest API
+Simple http server with Bun.js Express &amp; MongoDB: CRUD Rest API
