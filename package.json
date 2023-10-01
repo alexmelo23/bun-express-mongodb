@@ -1,0 +1,39 @@
+{
+  "name": "bun-xpress-mongodb",
+  "module": "index.ts",
+  "type": "module",
+  "main": "dist/index.js",
+  "scripts": {
+    "dev": "bun --hot run index.ts"
+  },
+  "devDependencies": {
+    "bun-types": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "http-status": "^1.7.0",
+    "mongoose": "^7.5.3"
+  },
+  "keywords": [
+    "bunrest",
+    "bun",
+    "express",
+    "http",
+    "rest",
+    "restful",
+    "app",
+    "server",
+    "framework",
+    "api",
+    "mongoose",
+    "mongodb"
+  ],
+  "description": "Bun Restful CRUD API with Bun, Express and MongoDB",
+  "author": "Alex Malin",
+  "license": "MIT"
+}
