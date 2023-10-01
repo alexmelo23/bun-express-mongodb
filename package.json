@@ -1,5 +1,5 @@
 {
-  "name": "bun-xpress-mongodb",
+  "name": "bun-express-mongodb",
   "module": "index.ts",
   "type": "module",
   "main": "dist/index.js",
